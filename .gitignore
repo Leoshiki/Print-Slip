@@ -8,6 +8,7 @@ __pycache__/
 
 # Confidential info
 print-slip-config.txt
+notes/
 
 # Distribution / packaging
 .Python
