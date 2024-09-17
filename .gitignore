@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Confidential info
+print-slip-config.txt
+
 # Distribution / packaging
 .Python
 build/
