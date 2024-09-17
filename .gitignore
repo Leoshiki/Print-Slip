@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Confidential info
+Config.py
 print-slip-config.txt
 notes/
 
